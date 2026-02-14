@@ -40,9 +40,6 @@ Machine learning model to identify employees at risk of leaving using classifica
 🔹 Waze User Churn Analysis  
 End-to-end EDA and predictive modeling focused on recall optimization and business impact.
 
-🔹 Trading Performance Analytics  
-Time-series and statistical analysis of strategy performance, drawdowns, and risk exposure.
-
 
 
 ---
