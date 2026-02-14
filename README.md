@@ -1,4 +1,4 @@
-# Hi, I'm Andres Rosero Yepes 👋
+# Hi, I'm Andres Rosero Yepes 
 
 Quantitative Finance & Data Analyst  
 Asheville, NC  
