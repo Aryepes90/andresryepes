@@ -1,81 +1,85 @@
-# Hi, I'm Andres Rosero Yepes 
+# Andres Rosero Yepes
 
-Quantitative Finance & Data Analyst  
-Asheville, NC  
+**Quantitative Finance | Algorithmic Trading | Data Science**  
+📍 Asheville, NC &nbsp;|&nbsp; 📧 roseroster@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/andresrosero)
 
-I specialize in transforming financial and operational data into actionable insights using Python, SQL, and Tableau.  
-My background in derivatives trading, credit risk analysis, and machine learning allows me to combine domain expertise with advanced analytics to solve real-world business problems.
+---
+
+## About Me
+
+I work at the intersection of financial markets and data science — combining hands-on derivatives trading experience with quantitative modeling and machine learning.
+
+My background spans **live futures and options trading** (ES, NQ, CL, SPY), **commercial credit and counterparty risk analysis**, and **algorithmic strategy development**. I'm currently building toward a full-time role in quantitative research, data-driven investment analysis, or trading analytics at a hedge fund, prop trading firm, or systematic trading desk.
+
+- 🎓 M.S. Data Science — Illinois Institute of Technology *(in progress, focus: time series analysis)*
+- 📜 Certificate in Python for Finance — The Python Quants *(in progress)*
+- 📊 Google Advanced Data Analytics Professional Certificate
 
 ---
 
 ## Technical Skills
 
-**Programming & Data Tools**  
-- Python (pandas, NumPy, scikit-learn, SciPy, TensorFlow, Keras, MLP)  
-- SQL  
-- Tableau  
-- R  
-- Excel (Advanced financial modeling)
+**Languages & Tools**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-**Analytics & Modeling**  
-- Exploratory Data Analysis (EDA)  
-- Predictive modeling & regression  
-- Time-series performance analysis  
-- Statistical analysis  
-- Data cleaning & validation  
+**Libraries & Frameworks**  
+`pandas` `NumPy` `scikit-learn` `XGBoost` `matplotlib` `seaborn` `tidyverse` `ggplot2`
 
-**Finance & Quant Domain**  
-- Options & futures analytics  
-- Volatility & risk exposure monitoring  
-- PnL performance evaluation  
-- Credit & financial statement analysis  
+**Quant & Finance**  
+`Derivatives pricing` `Options analytics` `Volatility modeling` `PnL analysis` `Backtesting` `Risk monitoring` `Counterparty risk` `Credit risk modeling`
+
+**Infrastructure**  
+`Docker` `Jupyter` `Anaconda` `Git`
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-🔹 Employee Churn Prediction  
-Machine learning model to identify employees at risk of leaving using classification techniques and feature engineering.
+### 📈 [Employee Attrition Prediction — Salifort Motors](https://github.com/Aryepes90/salifort-motors-hr-analytics)
+End-to-end ML pipeline comparing Logistic Regression, Random Forest, and XGBoost to predict employee churn. Includes domain-informed feature engineering — constructed a `burnout_risk` indicator combining project load, monthly hours, and tenure. Champion model (Random Forest) achieved **99.3% precision / 93.0% recall** on test data.  
+`Python` `scikit-learn` `XGBoost` `pandas` `feature engineering` `EDA`
 
-🔹 Waze User Churn Analysis  
-End-to-end EDA and predictive modeling focused on recall optimization and business impact.
-
-
-
----
-
-## 📊 Tableau Dashboards
-
-https://public.tableau.com/app/profile/andres.rosero.yepes/vizzes
+### 📊 [Smart Device Usage Analysis — Bellabeat](https://github.com/Aryepes90/bellabeat-wellness-analytics)
+Exploratory data analysis of Fitbit behavioral data to inform marketing strategy for a wellness wearable. Correlation analysis across activity, sleep, and calorie data with ggplot2 visualizations and CDC-benchmarked recommendations.  
+`R` `tidyverse` `ggplot2` `lubridate` `EDA`
 
 ---
 
-##  Professional Experience
+## Tableau Dashboards
 
-🏦 **Business Credit Analyst – TruPoint Bank**  
-Credit risk analysis, financial modeling, and underwriting support for commercial lending.
-
-📈 **Futures & Options Trader / Analyst**  
-Performance analytics, volatility monitoring, structured trade evaluation, and risk management.
+📊 [View my Tableau Public profile](https://public.tableau.com/app/profile/andres.rosero.yepes/vizzes)
 
 ---
 
-## 🎓 Certifications
+## Professional Background
 
-- Google Advanced Data Analytics Professional Certificate  
-- Machine Learning for Trading – NYIF & Google Cloud  
-- Financial Analysis (FP&A) – University of Illinois  
-- Python for Finance (In Progress)
+**Business Credit Analyst — TruPoint Bank**  
+Commercial credit underwriting, multi-year financial statement analysis, counterparty risk monitoring, and quantitative risk assessment for commercial lending decisions. Built structured credit models evaluating probability of default and exposure metrics.
 
----
-
-## 🌎 Languages
-
-English (Fluent) | Spanish (Fluent) | Italian (Basic)
+**Futures & Options Trader / Analyst — Ingresarios**  
+Live trading in ES, NQ, and CL futures. SPY/ES options credit spreads. Algorithmic CL crude oil strategy execution. Volatility monitoring, PnL analysis, and structured trade evaluation.
 
 ---
 
-## 📫 Connect With Me
+## Currently Working On
 
-- LinkedIn: https://www.linkedin.com/in/andresrosero
-- Email: roseroster@gmail.com
+- 🔬 Quantitative research projects using CPF curriculum — futures and options focused
+- 📚 Time series analysis and systematic strategy development
+- 🏗️ Building a production-grade backtesting framework in Python
+
+---
+
+## Certifications
+
+- Google Advanced Data Analytics Professional Certificate
+- Machine Learning for Trading — NYIF & Google Cloud
+- Financial Analysis (FP&A) — University of Illinois
+
+---
+
+## Languages
+
+🇺🇸 English (Fluent) &nbsp;|&nbsp; 🇨🇴 Spanish (Fluent) &nbsp;|&nbsp; 🇮🇹 Italian (Basic)
