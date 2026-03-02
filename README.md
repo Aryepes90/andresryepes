@@ -11,7 +11,7 @@ I work at the intersection of financial markets and data science — combining h
 
 My background spans **live futures and options trading** (ES, NQ, CL, SPY), **commercial credit and counterparty risk analysis**, and **algorithmic strategy development**. I'm currently building toward a full-time role in quantitative research, data-driven investment analysis, or trading analytics at a hedge fund, prop trading firm, or systematic trading desk.
 
-- 🎓 M.S. Data Science — Illinois Institute of Technology *(in progress, focus: time series analysis)*
+- 🎓 M.S. Data Science — Illinois Institute of Technology *(in progress)*
 - 📜 Certificate in Python for Finance — The Python Quants *(in progress)*
 - 📊 Google Advanced Data Analytics Professional Certificate
 
